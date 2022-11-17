@@ -35,7 +35,7 @@ This application is developed using Swift5. It was a complex application and we 
 I'm very happy with how the project turned out. I'm especially pleased with the app's animation, UI design, and extensible architecture.
 
 <p align="center">
-<img src="images/DineNow/d1.png" width="240"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DineNow/d2.png" width="240" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DineNow/d3.png" width="240" title="DineNow">
+<img src="images/DineNow/d1.png" width="240"  title="Word Guess"><img src="images/DineNow/d2.png" width="240" title="Word Guess"><img src="images/DineNow/d3.png" width="240" title="DineNow">
 </p>
 
 # AirShare
@@ -46,7 +46,7 @@ It has two main functions:
 - The second function was to monitor the drone's location on the map and draw the drone's fight path on the map. Core Location was used to manage coordinates. The main challenge in this application was that there were more than 350+ shapes drowned on the map, and when the user performed a pinch to zoom, the colour of the shape changed, so that issue was solved by providing the colour based on shape ID.
 
 <p align="center">
-<img src="images/AirShare/a1.png" width="240"  title="Word Guess"><img src="images/AirShare/a2.png" width="240" title="Word Guess"><img src="images/AirShare/a3.png" width="240" title="DineNow"><img src="images/AirShare/a4.png" width="240" title="DineNow">
+<img src="images/AirShare/a1.png" width="240"  title="AirShare"><img src="images/AirShare/a2.png" width="240" title="AirShare"><img src="images/AirShare/a3.png" width="240" title="DineNow"><img src="images/AirShare/a4.png" width="240" title="DineNow">
 </p>
   
 # Contact Info:
