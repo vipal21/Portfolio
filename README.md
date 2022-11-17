@@ -77,4 +77,13 @@ your profile
 - Create a business profile for your business lunches
 - Simply order past orders again
 
+# Battuta
+
+This application made extensive use of both Google Maps and Apple Maps APIs. The application has two main functions. The first is to draw the air space for the drone on Google Maps and Apple Maps. Circle, Polygon, Polyline, and custom shapes based on codrinates sent by the server on both map.
+
+The second function was to monitor the drone's location on the map and draw the drone's fight path on the map. Core Location was used to manage coordinates. The main challenge in this application was that there were more than 350+ shapes drowned on the map, and when the user performed a pinch to zoom, the colour of the shape changed, so that issue was solved by providing the colour based on shape ID.
+
+<p align="center">
+<img src="images/AirShare/a1.png" width="240"  title="Word Guess"><img src="images/AirShare/a2.png" width="240" title="Word Guess"><img src="images/AirShare/a3.png" width="240" title="DineNow"><img src="images/AirShare/a4.png" width="240" title="DineNow">
+</p>
 
