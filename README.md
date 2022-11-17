@@ -16,5 +16,8 @@ A Booking Platform for the Beauty Industry built in React-Native. As The app's d
 The most challenging aspect of the application was maintaining the payment status flow, which included payment success, payment failure, and returning the payable amount to the customer.
 
 <p align="center">
-<img src="images/zeboc/zeboc.png" width="1000" title="DarkRoom">
+<img src="images/alana/alana3.png" width="500" title="DarkRoom">
+<img src="images/alana/alana.png" width="260" title="DarkRoom">
 </p>
+
+
