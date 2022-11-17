@@ -87,3 +87,8 @@ The second function was to monitor the drone's location on the map and draw the 
 <img src="images/AirShare/a1.png" width="240"  title="Word Guess"><img src="images/AirShare/a2.png" width="240" title="Word Guess"><img src="images/AirShare/a3.png" width="240" title="DineNow"><img src="images/AirShare/a4.png" width="240" title="DineNow">
 </p>
 
+# Contact Info:
+
+- Email: vipalkharva99@.com
+- LinkedIn: [vipal kharva](https://www.linkedin.com/in/vipal-kharva-9a430012a/)
+
