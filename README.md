@@ -17,7 +17,7 @@ The most challenging aspect of the application was maintaining the payment statu
 
 <p align="center">
 <img src="images/alana/alana3.png" width="500" title="DarkRoom">
-<img src="images/alana/alana.png" width="260" title="DarkRoom">
+<img src="images/alana/alana2.png" width="260" title="DarkRoom">
 </p>
 
 
