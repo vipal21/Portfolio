@@ -19,5 +19,8 @@ The most challenging aspect of the application was maintaining the payment statu
 <img src="images/alana/alana3.png" width="500" title="DarkRoom">
 <img src="images/alana/alana2.png" width="260" title="DarkRoom">
 </p>
+# Battuta
+This is a small application whose goal is to show the user nearby tourist attractions. The user can view the locations both in the list and on the map. The application allows the user to plan their trip and add and remove friends from that trip plan. 
+So the main point of this application was that the client needed to reuse it for different countries. So I created a json file and placed the data in that json file on the server, and now we have different applications for different types of countries.
 
 
