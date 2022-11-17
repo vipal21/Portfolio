@@ -12,6 +12,7 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 
 # Alana
 A Booking Platform for the Beauty Industry built in React-Native. As The app's design is very impressive, and it is still in development. This application's basic concept was to book appointments in various beauty businesses. User can follow their fashion designers and on their basics that they can see different types of products made by them. Furthermore, if the service like hair cut and beauty pallor is available, user can book the time slot and make reservation. The application is built on functional components, and I used react-hooks such as useState and useEffect to monitor data and perform operations. I added support for dark mode. Rather than creating two applications, one for the customer and one for the provider, I created a single application and managed the operations.
+
 The most challenging aspect of the application was maintaining the payment status flow, which included payment success, payment failure, and returning the payable amount to the customer.
 
 <p align="center">
