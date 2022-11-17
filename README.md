@@ -30,4 +30,12 @@ So the main point of this application was that the client needed to reuse it for
 </p>
 
 
+# Battuta
+This is a small application whose goal is to show the user nearby tourist attractions. The user can view the locations both in the list and on the map. The application allows the user to plan their trip and add and remove friends from that trip plan. 
+So the main point of this application was that the client needed to reuse it for different countries. So I created a json file and placed the data in that json file on the server, and now we have different applications for different types of countries.The serach function allows the user to search for a location.
+
+<p align="center">
+<img src="images/sakura/sakura-play.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-win.png" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-example.gif" width="226" title="Word Guess">
+</p>
+
 
