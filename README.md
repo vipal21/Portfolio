@@ -30,7 +30,7 @@ A vital requirement of this application was the need to reuse it for different c
 
 # DineNow
 
-This application is developed using Swift5. It was a complex application and we worked in a team of eight. For application development, we used MVC architecture and singletons. My main responsibility was to create fill-in forms, add validation, and handle the API call response. I also worked on animation in the app and designed a QR code scanner. We used Auto Layout and StackView for UI design and makes extensive use of both UIView animations and CAEmitterLayers.
+This application is developed using Swift5. It was a complex application and we worked in a team of eight. For application development, we used MVC architecture and singletons. My main responsibility was to create fill-in forms, add validation, and handle the API call response. I also worked on animation in the app and designed a QR code scanner. We used Auto Layout and StackView for UI design and makes extensive use of both UIView animations and CAEmitterLayers. [Read more](https://apps.apple.com/us/app/dinenow/id1496734319)
 
 I'm very happy with how the project turned out. I'm especially pleased with the app's animation, UI design, and extensible architecture.
 
